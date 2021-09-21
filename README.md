@@ -8,4 +8,5 @@ an application that automates the orchestration and configuration of a multi-tie
    
    The Storage functionality: the "scaling" of VMs by attaching volume blocks and storage blocks</br>
    
-    Security functionality: Addition of Security Groups and security rules in order to be able to guarantee the infrastructure and carry out a health check in order to detect    vulnerabilities.
+  
+  
